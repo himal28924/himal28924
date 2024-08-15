@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Himal Sharma and I'm a Full-stack Developer, from Denmark and Nepal.</h2>
+<h2 align="left">Hi 👋! My name is Himal Sharma and I'm a Software Developer, from Denmark and Nepal.</h2>
 
 ###
 
